@@ -2,7 +2,7 @@
 
   [![Instagram Badge](https://img.shields.io/badge/-utandii__-00875f?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/utandii_)](https://instagram.com/utandii_) 
   [![Linkedin Badge](https://img.shields.io/badge/-Tandi%20Coelho-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tandi-coelho-1b379820a/)](https://www.linkedin.com/in/tandi-coelho-1b379820a/)
-  [![Gmail Badge](https://img.shields.io/badge/-tandiccoelho@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tandiccoelho@gmail.com)](mailto:tandiccoelho@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-contatotandicoelho@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatotandicoelho@gmail.com)](mailto:contatotandicoelho@gmail.com)
 
   Envie-me uma mensagem/email☝️
   
