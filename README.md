@@ -26,8 +26,3 @@
   
   <h6>Aguardando atualizações...</h6>
 
-<div> 
-  
-  ![Snake animation](https://github.com/tandii/tandii/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
